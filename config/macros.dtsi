@@ -50,5 +50,5 @@
     compatible = "zmk,behavior-macro";
     label = "macro_shk";
     #binding-cells = <0>;
-    bindings = <&kp S>, <&macro_wait_time 25>, <&kp H>, <&macro_wait_time 25>, <&kp K>, <&macro_wait_time 25>, <&kp N2>, <&macro_wait_time 25>, <&kp N3>, <&macro_wait_time 25>, <&kp N6>, <&macro_wait_time 25>, <&kp N2>, <&macro_wait_time 25>, <&kp N3>, <&macro_wait_time 25>, <&kp N6>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>, <&kp KP_PLUS>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>, <&kp KP_PLUS>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>, <&kp KP_PLUS>;
+    bindings = <&kp S>, <&macro_wait_time 25>, <&kp H>, <&macro_wait_time 25>, <&kp K>, <&macro_wait_time 25>, <&kp N2>, <&macro_wait_time 25>, <&kp N3>, <&macro_wait_time 25>, <&kp N6>, <&macro_wait_time 25>, <&kp N2>, <&macro_wait_time 25>, <&kp N3>, <&macro_wait_time 25>, <&kp N6>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>, <&kp KP_PLUS>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>, <&kp KP_PLUS>, <&macro_wait_time 25>, <&kp LS(P)>, <&macro_wait_time 25>;
   };
